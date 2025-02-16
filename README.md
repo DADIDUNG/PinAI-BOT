@@ -23,7 +23,7 @@ An automated bot for managing PinAI accounts, handling daily tasks, and automati
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Galkurta/PinAI-BOT.git
+git clone https://github.com/DADIDUNG/PinAI-BOT.git
 cd PinAI-BOT
 ```
 
